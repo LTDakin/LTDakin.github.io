@@ -6,7 +6,7 @@
 ## About Me:
 I am currently a Junior at the University of Arizona studying Computer Science. I chose this path because I want to learn the skills to be able to help others and make their lives simpiler and more enjoyable. I originally was super interested in Biology and thinking about becoming a doctor, but thanks to a close friend of mine they convinced me to check out some cs. 
 
-Since then I transistioned to Bioinformatics, and then finally computer science! It's flexibilty and impact are what drew me in to the subject. The amount of possibilities cs has to help others really excited me. Programing is such a wide and sometimes overwhelming field, but as my dad always says:
+Since then I transistioned to Bioinformatics, and then finally computer science! It's flexibilty and impact are what drew me in to the subject. The amount of possibilities computer science has to help others really excited me. Programing is such a wide and sometimes overwhelming field, but as my dad always says:
 
 > When you think something seems impossible just put your head down and **do the work**  
 >*- Lloyd Earl. Dakin*
@@ -19,6 +19,7 @@ Some languages that I am familiar with are:
 - Java **(3 years)**
 - Html5 **(1 year)**
 - Visual Basic **(1 year)**
+- C **(1 year)**
 
 I am also interested in learning some more including *PHP, Python, and C++.*
 
